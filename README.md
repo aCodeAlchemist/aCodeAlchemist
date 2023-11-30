@@ -32,6 +32,7 @@ In the digital realm, I am well-versed in the intricacies of:
 
 ## 🚀 Recent Projects
 - [The Accessbox](https://theaccessbox.com/): Securely share subscriptions and earn money. Explore subscription-sharing activities on our platform for seamless collaboration and financial rewards.
+- [Aithentic](https://aithentic.com/) - Manage your licenses, costs, and replacements with Confidence. Maximize return on your technology investments.
 - [Compliance View](https://www.compliance-view.com/): An enterprise software focused on multi-level collaboration for cybersecurity firms & their clientels. Focused on Information Security and compliance assurance that the organization is secure.
 - [Madhuras](https://madhuras.com/) - Subscriptions-based daily meals delivery
 - [POS](http://posapi.vistaran.com/) - Next Generation POS Software
