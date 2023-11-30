@@ -29,6 +29,9 @@ I specialize in executing seamless tech migrations, leveraging my experience to 
 - [The Accessbox](https://theaccessbox.com/): Securely share subscriptions and earn money. Explore subscription-sharing activities on our platform for seamless collaboration and financial rewards.
 - [Compliance View](https://www.compliance-view.com/): An enterprise software focused on multi-level collaboration for cybersecurity firms & their clientels. Focused on Information Security and compliance assurance that the organization is secure.
 - [Madhuras](https://madhuras.com/) - Subscriptions-based daily meals delivery
+- [POS](http://posapi.vistaran.com/) - Next Generation POS Software
+- [SEO Doctor](https://apps.shopify.com/seo-doctor) - Top Rated Shopify App ($10000+ Monthly revenue)
+- [Rexford Industrial](https://www.rexfordindustrial.com/) - Focused exclusively on creating value by investing in industrial property throughout infill Southern California.
 
 ## 🌱 I’m currently learning
 I believe in continuous learning, and currently, I am focusing on AI.
@@ -36,6 +39,7 @@ I believe in continuous learning, and currently, I am focusing on AI.
 ## 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/shreejibawa
 - Twitter: https://twitter.com/shreejibawa
+
 
 <!-- ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=acodealchemist&show_icons=true&count_private=true) -->
