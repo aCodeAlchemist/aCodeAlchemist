@@ -1,7 +1,7 @@
-# Hi there, I'm Jay 👋
+# त्वं ब्रह्माण्डः असि। 👋
 
 ## 👨‍💻 About Me
-I am a seasoned Software Architect and Database Administrator with 11 years of experience in designing and implementing robust and scalable software solutions. My expertise lies in a diverse range of technologies, and I thrive on solving complex problems to deliver high-quality software.
+Greetings! I'm Jay, your friendly neighborhood Software Architect, Database Guru, and the unofficial ambassador of cosmic code. With over 11 years of traversing the digital realms, I've honed my skills not just in tech but also in the mystical arts of integrations, migrations, and the sacred dance of containers. Beyond the keyboard and into the cosmic dance, I've found enlightenment through yoga, balancing the chakras of both servers and souls. In the realm of leadership, I guide teams with a Jedi-like wisdom, making decisions at the speed of light (or at least the speed of a well-optimized algorithm). And fear not, for I am not just a code wizard—I wield spatulas and ladles with equal finesse. As a cook in the magical realm of Indian cuisine, I can turn a pot of curry into a gastronomic odyssey. So, whether you seek technological solutions or a good laugh amidst the cosmic code, join me on this journey through the whimsical wonders of software and the universe. Namaste, byte-seekers!
 
 ## 💼 Tech Stack
 - **Cloud:** AWS, Google Cloud, Azure
@@ -19,7 +19,7 @@ I also excel in integrating diverse systems and applications, ensuring smooth co
 - **Middleware Solutions:** Implementing middleware solutions for efficient data exchange.
 - **E-commerce Integrations:** Streamlining e-commerce platforms through seamless integrations.
 
-## Tech Migrations
+## ⚙️ Tech Migrations
 I specialize in executing seamless tech migrations, leveraging my experience to minimize downtime and ensure a smooth transition. My skills in this area include:
 - **Database Migrations:** Migrating databases to new platforms while maintaining data integrity.
 - **Application Migration:** Upgrading and migrating applications to newer versions or alternative technologies.
@@ -32,6 +32,16 @@ I specialize in executing seamless tech migrations, leveraging my experience to 
 - [POS](http://posapi.vistaran.com/) - Next Generation POS Software
 - [SEO Doctor](https://apps.shopify.com/seo-doctor) - Top Rated Shopify App ($10000+ Monthly revenue)
 - [Rexford Industrial](https://www.rexfordindustrial.com/) - Focused exclusively on creating value by investing in industrial property throughout infill Southern California.
+
+## 🧘 Leadership and Personal Qualities
+Beyond technology, I bring essential qualities to the table:
+- **Leadership:** Guiding teams with vision and purpose to achieve common goals.
+- **Responsibility:** Ensuring accountability and reliability in every aspect of my work.
+- **Teamwork:** Fostering collaboration and synergy within diverse teams.
+- **Flexibility:** Adapting to changing requirements and environments with ease.
+- **Decisiveness:** Making informed decisions promptly to keep projects on track.
+- **Mentorship:** Sharing knowledge and experiences to uplift and guide the next generation of tech professionals.
+- **Yoga Practitioner:** Cultivating balance and mindfulness through the practice of yoga.
 
 ## 🌱 I’m currently learning
 I believe in continuous learning, and currently, I am focusing on AI.
