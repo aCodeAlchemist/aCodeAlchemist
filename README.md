@@ -9,7 +9,7 @@ I am a seasoned Software Architect and Database Administrator with 11 years of e
 - **Server:** Node.js, PHP, Python
 - **Frameworks:** Laravel, Angular, React
 - **Database:** MySQL, MongoDB
-- **Frontend:** JavaScript, React, Angular
+- **Frontend:** Typescript, JavaScript, React, Angular
 - **Styling:** Tailwind CSS, Bootstrap CSS
 
 ## 🛠️ Integrations Expertise
