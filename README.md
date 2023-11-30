@@ -25,6 +25,11 @@ I specialize in executing seamless tech migrations, leveraging my experience to 
 - **Application Migration:** Upgrading and migrating applications to newer versions or alternative technologies.
 - **Cloud Migrations:** Executing strategic migrations to cloud environments for enhanced scalability and performance.
 
+### 🌍 Technical SEO and Analytics
+In the digital realm, I am well-versed in the intricacies of:
+- **Technical SEO:** Optimizing websites and applications for search engines, ensuring maximum visibility and performance.
+- **Analytics Implementation:** Expertise in implementing and leveraging analytics tools such as Mixpanel, Hotjar, and Google Analytics to derive actionable insights and drive data-informed decisions.
+
 ## 🚀 Recent Projects
 - [The Accessbox](https://theaccessbox.com/): Securely share subscriptions and earn money. Explore subscription-sharing activities on our platform for seamless collaboration and financial rewards.
 - [Compliance View](https://www.compliance-view.com/): An enterprise software focused on multi-level collaboration for cybersecurity firms & their clientels. Focused on Information Security and compliance assurance that the organization is secure.
