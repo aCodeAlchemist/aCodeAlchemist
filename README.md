@@ -1,4 +1,4 @@
-# त्वं ब्रह्माण्डः असि। 🙏
+🪔 # त्वं ब्रह्माण्डः असि। 🙏
 
 ## 👨‍💻 About Me
 Greetings! I'm Jay, your friendly neighborhood Software Architect, Database Guru, and the unofficial ambassador of cosmic code. With over 11 years of traversing the digital realms, I've honed my skills not just in tech but also in the mystical arts of integrations, migrations, and the sacred dance of containers. Beyond the keyboard and into the cosmic dance, I've found enlightenment through yoga, balancing the chakras of both servers and souls. In the realm of leadership, I guide teams with a Jedi-like wisdom, making decisions at the speed of light (or at least the speed of a well-optimized algorithm). And fear not, for I am not just a code wizard—I wield spatulas and ladles with equal finesse. As a cook in the magical realm of Indian cuisine, I can turn a pot of curry into a gastronomic odyssey. So, whether you seek technological solutions or a good laugh amidst the cosmic code, join me on this journey through the whimsical wonders of software and the universe. Namaste, byte-seekers!
