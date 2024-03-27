@@ -1,7 +1,11 @@
 # 🪔 त्वं ब्रह्माण्डः असि। 🙏
 
 ## 👨‍💻 About Me
-Namaste! I'm Jay, your friendly neighborhood Software Architect, Database Guru, and the unofficial ambassador of cosmic code. With over 11 years of traversing the digital realms, I've honed my skills not just in tech but also in the arts of integrations, migrations, and the dance of containers. Beyond the keyboard and into the cosmic dance, I've found enlightenment through yoga, balancing the chakras of both servers and souls. In the realm of leadership, I guide teams with Krishna's wisdom, making decisions at the speed of light (or at least the speed of a well-optimized algorithm). And fear not, for I am not just a code wizard—I wield spatulas and ladles with equal finesse. As a cook in the realm of Indian cuisine, I can turn a pot of curry into a gastronomic odyssey. So, whether you seek technological solutions or a good laugh amidst the cosmic code, join me on this journey through the whimsical wonders of software and the universe. Namaste, byte-seekers!
+Namaste. I am Jay, your congenial neighborhood Junior Software Architect, Database Expert, and the unspoken emissary of the cosmic code. With an extensive tenure spanning over 10+ years within the digital domain, I have meticulously cultivated my expertise not solely in the technological domain but also in the intricate tapestry of integrations, migrations, and the orchestration of containers. Beyond the confines of the keyboard and into the transcendental cadence of existence, I have discovered enlightenment through the practice of yoga, harmonizing the chakras of both systems and souls alike.
+
+In matters of leadership, I navigate teams with the sagaciousness reminiscent of Krishna, making discerning decisions with the swiftness of light—or at the very least, the celerity of a finely-tuned algorithm. However, do not be misled, for my prowess extends beyond the realms of coding. With equal finesse, I maneuver spatulas and ladles, delving into the culinary arts as a maestro of Indian cuisine, transmuting a humble pot of curry into a gastronomic odyssey.
+
+Thus, whether your quest leads you to the realms of technological innovation or simply in pursuit of a respite amid the cosmic symphony, I invite you to accompany me on this expedition through the whimsical marvels of software and the universe at large. Namaste, seekers of the byte.
 
 ## 💼 Tech Stack
 - **Cloud:** AWS, Google Cloud, Azure
