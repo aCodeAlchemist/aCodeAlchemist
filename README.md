@@ -1,5 +1,3 @@
-# 🪔 त्वं ब्रह्माण्डः असि। 🙏
-
 ## 👨‍💻 About Me
 Namaste. I am Jay, your congenial neighborhood Junior Software Architect, Database Expert, and the unspoken emissary of the cosmic code. With an extensive tenure spanning over 10+ years within the digital domain, I have meticulously cultivated my expertise not solely in the technological domain but also in the intricate tapestry of integrations, migrations, and the orchestration of containers. Beyond the confines of the keyboard and into the transcendental cadence of existence, I have discovered enlightenment through the practice of yoga, harmonizing the chakras of both systems and souls alike.
 
@@ -11,7 +9,7 @@ Thus, whether your quest leads you to the realms of technological innovation or 
 - **Cloud:** AWS, Google Cloud, Azure
 - **Containers:** Docker
 - **Server:** Node.js, PHP, Python
-- **Frameworks:** Laravel, Angular, React
+- **Frameworks:** NextJS, NestJS, Laravel, Angular, React
 - **Database:** MySQL, MongoDB
 - **Frontend:** Typescript, JavaScript, React, Angular
 - **Styling:** Tailwind CSS, Bootstrap CSS
