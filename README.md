@@ -54,7 +54,6 @@ I believe in continuous learning, and currently, I am focusing on learning to cr
 
 ## 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/shreejibawa
-- Twitter: https://twitter.com/shreejibawa
 
 ## 🤝 Let's Connect
 I'm always open to interesting conversations and collaboration. Feel free to reach out if you want to discuss tech, share ideas, or work on a project together.
