@@ -30,7 +30,7 @@ In the digital realm, I am well-versed in the complexities of:
 - **Analytics Implementation:** Expertise in implementing and leveraging analytics tools such as Mixpanel, Hotjar, and Google Analytics to derive actionable insights and drive data-informed decisions.
 
 ## 🚀 Recent Projects
-- [Fleetrun](https://fleetrun/in/): Built a Backend and Public Website for Logistics firm.
+- [Fleetrun](https://fleetrun.in/): Built a Backend and Public Website for Logistics firm.
 - [The Accessbox](https://theaccessbox.com/): Securely share subscriptions and earn money. Explore subscription-sharing activities on our platform for seamless collaboration and financial rewards.
 - [Aithentic](https://aithentic.com/) - Manage your licenses, costs, and replacements with Confidence. Maximize return on your technology investments.
 - [Scan View](https://v2.scan-view.com/): An enterprise software focused on pennetration test report generation using AI.
