@@ -25,7 +25,7 @@ I specialize in executing seamless tech migrations, leveraging my experience to 
 - **Cloud Migrations:** Executing strategic migrations to cloud environments for enhanced scalability and performance.
 
 ## 🌍 Technical SEO and Analytics
-In the digital realm, I am well-versed in the intricacies of:
+In the digital realm, I am well-versed in the complexities of:
 - **Technical SEO:** Optimizing websites and applications for search engines, ensuring maximum visibility and performance.
 - **Analytics Implementation:** Expertise in implementing and leveraging analytics tools such as Mixpanel, Hotjar, and Google Analytics to derive actionable insights and drive data-informed decisions.
 
