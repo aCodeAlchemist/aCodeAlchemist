@@ -33,7 +33,7 @@ In the digital realm, I am well-versed in the complexities of:
 - [Fleetrun](https://fleetrun.in/): Built a Backend and Public Website for Logistics firm.
 - [The Accessbox](https://theaccessbox.com/): Securely share subscriptions and earn money. Explore subscription-sharing activities on our platform for seamless collaboration and financial rewards.
 - [Aithentic](https://aithentic.com/) - Manage your licenses, costs, and replacements with Confidence. Maximize return on your technology investments.
-- [Scan View](https://v2.scan-view.com/): An enterprise software focused on pennetration test report generation using AI.
+- [Scan View](https://v2.scan-reports.com/): An enterprise software focused on pennetration test report generation using AI.
 - [Compliance View](https://www.compliance-view.com/): An enterprise software focused on multi-level collaboration for cybersecurity firms & their clientels. Focused on Information Security and compliance assurance that the organization is secure.
 - [Madhuras](https://madhuras.com/) - Subscriptions-based daily meals delivery
 - [SEO Doctor](https://apps.shopify.com/seo-doctor) - Top Rated Shopify App ($10000+ Monthly revenue)
