@@ -3,12 +3,13 @@ Hey, I am your neighborhood Software Architect, Full Stack Developer, Cloud Expe
 
 
 ## 💼 Tech Stack
+- **AI & Automation (3+ Years):** Claude, Gemini, ChatGPT, DeepSeek API, Hermes, OpenClaw, RAG (Retrieval-Augmented Generation), Fine-Tuning, AI Automations, n8n
 - **Cloud:** AWS
 - **Containers:** Docker, Docker Compose
 - **Server:** Nginx, Apache
-- **Frameworks:** NextJS, NestJS, Laravel
+- **Frameworks:** Laravel, NextJS, NestJS
 - **Database:** MongoDB, MySQL, Supabase, Firebase, PostgreSQL
-- **Frontend:** Typescript, JavaScript, React, Angular
+- **Frontend:** React, Angular, Typescript, JavaScript
 - **Styling:** Tailwind CSS
 
 ## 🛠️ Integrations Expertise
