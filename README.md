@@ -20,6 +20,7 @@ I design and build scalable, real-time, and AI-native systems, and I translate b
 | Category | Technologies |
 |---|---|
 | AI & ML | LLM fine-tuning, RAG, AI agents, multi-agent systems, private LLM hosting, prompt engineering |
+| Agent Harness | Hermes Agent, Codex, Antigravity, Claude Code, Grok Bot |
 | Languages | Python, Node.js, PHP, TypeScript, JavaScript |
 | Backend | Laravel, NestJS, Express, Django, REST APIs, WebSockets, Socket.io |
 | Frontend | Next.js, React, Angular, Tailwind CSS |
@@ -33,9 +34,14 @@ I design and build scalable, real-time, and AI-native systems, and I translate b
 - **[Compliance View](https://www.compliance-view.com/):** multi-level collaboration and compliance assurance for cybersecurity firms.
 - **[SEO Doctor](https://apps.shopify.com/seo-doctor):** top-rated Shopify app with $10K+ monthly revenue.
 - **[Fleetrun](https://fleetrun.in/):** backend and public website for a logistics firm.
-- **[GenuoAI](https://genuo.ai/):** AI content generation for e-commerce, freelancers, and marketers.
+- **[Charlotte's Web](https://www.charlottesweb.com/):** technical SEO and performance optimisation.
+- **[Stanton Optical](https://www.stantonoptical.com/):** technical SEO and performance optimisation.
 
 Also shipped: Upturnly, Aithentic, The Accessbox, Madhuras, and Rexford Industrial.
+
+## Certifications
+
+- **Oracle Certified Professional** (2014)
 
 ## Currently exploring
 
